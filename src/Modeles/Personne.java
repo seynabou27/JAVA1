@@ -1,6 +1,6 @@
 package Modeles;
 
-public class Personne {
+abstract public class Personne {
     
     protected int id;
 
